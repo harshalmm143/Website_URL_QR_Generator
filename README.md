@@ -10,17 +10,11 @@
 
 
  ## Tech Stack
-
 **Client :** React, Html, CSS, 
-
-**Server :** NodeJS, Express 
-
 
 
 ## 🚀 About Me
 I'm a full stack developer... 👋
-
-
 
 
 ## 🛠 Skills
@@ -28,6 +22,5 @@ Javascript, HTML, CSS, ReactJs,NodeJs, ReactNative...
 
 
 ## Authors 👨🏻‍💻
-
 - [@harshalmm143](https://www.github.com/harshalmm143)
 
