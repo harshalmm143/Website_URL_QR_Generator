@@ -2,5 +2,4 @@
 
 ## Preview
 
-https://github.com/harshalmm143/website_url_barcode_generator/assets/102899317/e6e48d43-2c6b-49f5-ab19-f77da70898a3
-
+![ezgif com-video-to-gif](https://github.com/harshalmm143/Website_URL_QR_Generator/assets/102899317/007e104d-da2d-4761-a1cb-26d6dcf4fe5d)
