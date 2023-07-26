@@ -1,4 +1,4 @@
-# Website URL QR / Barcode Generator
+# Website URL QR Generator
 
 ## Preview
 
