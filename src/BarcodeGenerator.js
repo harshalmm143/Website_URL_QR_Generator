@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import QRCode from 'qrcode.react';
 import './BarcodeGenerator.css'
 import QR from './qr-code.gif'
-import { FaEarthAfrica } from 'react-icons/fa6'
+
 
 
 
